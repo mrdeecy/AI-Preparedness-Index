@@ -1,0 +1,55 @@
+# --- Python specific ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+env.old/
+
+# --- VS Code settings ---
+.vscode/
+.vscode/*
+
+# --- Logs & runtime files ---
+*.log
+*.out
+*.tmp
+*.bak
+
+# --- Sensitive environment/config files ---
+.env
+*.env
+config.json
+settings.json
+
+# --- Database files ---
+*.sqlite
+*.db
+
+# --- Certificates & keys ---
+*.pem
+*.key
+*.crt
+
+# --- Oracle VM artifacts ---
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+*.ova
+*.ovf
+
+# --- System files ---
+.DS_Store
+Thumbs.db

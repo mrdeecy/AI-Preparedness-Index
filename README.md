@@ -42,16 +42,22 @@ Ghana's Rank in Africa: 9 out of 48
 | Ghana | 0.425200 | 42.52% | 9 |
 | Namibia | 0.419612 | 41.96% | 10 |
 
+<img width="1455" height="755" alt="Top 10 African" src="https://github.com/user-attachments/assets/5d8ce1e3-9f0f-4f42-85b6-287cbab32daf" />
+
 Within Africa, Ghana ranks **9th out of 48** African nations included in the dataset. This positions Ghana as one of the leading countries on the continent in terms of AI preparedness and therefore positions itself as a regional hub for digital policy.
 
 ## Global Comparison
 When compared to the global top 10 leaders, Ghana faces a substantial gap. The average AIPI score for the top 10 countries is significantly higher than Ghana's. For instance, Singapore, the global leader, has an AIPI of 0.8006, nearly double that of Ghana.
+
+<img width="1155" height="555" alt="image" src="https://github.com/user-attachments/assets/94db76b9-7579-49f6-aabd-0e405b7ace53" />
 
 **Ghana vs. Global Top 10 Average (Pillar-wise):**
 * **Regulation and Ethics:** Ghana's strongest pillar (0.134) is still considerably lower than the global leaders' average (0.217).
 * **Digital Infrastructure:** This gap is most pronounced here, with Ghana's 0.089 lagging far behind the leaders' 0.193.
 * **Human Capital:** Ghana's 0.114 indicates a need for continued investment in digital literacy and specialized AI skills, compared to the leaders' 0.180.
 * **Innovation and Economic Integration:** At 0.089, Ghana scores almost half of the global average (0.175), reflecting challenges in integrating AI into the local business ecosystem and fostering innovation.
+
+<img width="1560" height="755" alt="image" src="https://github.com/user-attachments/assets/098b50bc-2672-4c1f-81da-74f55bcf5259" />
 
 ## The Solution
 To bridge the gap and prepare for an AI-driven future, the following areas are identified:

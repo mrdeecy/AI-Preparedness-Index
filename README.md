@@ -1,6 +1,9 @@
 
 # AI Preparedness Index: Ghana, Africa, and the World
 
+## Video Summary
+https://youtu.be/9pDWFcFM9bU
+
 ## Background
 **AI preparedness Index (AIPI)** assesses how ready a country is to harness the benefits and manage the risks of Artificial Intelligence. It is built on four macro-structural pillars: Digital Infrastructure, Human Capital, Innovation, and Regulation. AIPI simply measures a country's readiness for the AI era. It doesn't just look at how many technologies a country has; it looks at the whole ecosystem required for AI to thrive:
 * **Digital Infrastructure:** The physical infrastructure such as internet speed, server availability, and connectivity.

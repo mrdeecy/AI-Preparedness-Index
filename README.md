@@ -78,9 +78,3 @@ While Ghana has built a solid regulatory foundation and has a relatively skilled
 [Gen AI, Artificial Intelligence and the Future of Work](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379)
 
 **Tools:** Python, Pandas, Seaborn, Matplotlib
-
-
-
-
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/V9WD1Rs6)
